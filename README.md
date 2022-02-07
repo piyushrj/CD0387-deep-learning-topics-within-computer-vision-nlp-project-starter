@@ -25,15 +25,15 @@ What kind of model did you choose for this experiment and why? Give an overview 
     
 Completed Hyperparameter Tuning Job (Part-1) -
 
-!(hyperparameter_tune_part1.png)[otherImages/hyperparameter_tune_part1.png]
+![hyperparameter_tune_part1.png](otherImages/hyperparameter_tune_part1.png)
 
 Completed Hyperparameter Tuning Job (Part-2) -
 
-!(hyperparameter_tune_part1.png)[otherImages/hyperparameter_tune_part1.png]
+![hyperparameter_tune_part1.png](otherImages/hyperparameter_tune_part1.png)
 
 Completed Tranining Job for the model with best hyperparameter combination.
 
-!(training_job.png)[otherImages/training_job.png]
+![training_job.png](otherImages/training_job.png)
 
 
 
