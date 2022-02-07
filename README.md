@@ -29,7 +29,7 @@ Completed Hyperparameter Tuning Job (Part-1) -
 
 Completed Hyperparameter Tuning Job (Part-2) -
 
-![hyperparameter_tune_part1.png](otherImages/hyperparameter_tune_part1.png)
+![hyperparameter_tune_part2.png](otherImages/hyperparameter_tune_part2.png)
 
 Completed Tranining Job for the model with best hyperparameter combination.
 
